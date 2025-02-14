@@ -9,6 +9,9 @@ function App() {
         <p>
           Esse é meu Segundo App.
         </p>
+        <p>
+          New subtitle paragraph
+        </p>
         <a
           className="App-link"
           href="http://comunidadecloud.com"
