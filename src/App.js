@@ -10,7 +10,7 @@ function App() {
           Esse é meu Segundo App.
         </p>
         <p>
-          New subtitle paragraph
+          Vitin é BRABO!!!
         </p>
         <a
           className="App-link"
